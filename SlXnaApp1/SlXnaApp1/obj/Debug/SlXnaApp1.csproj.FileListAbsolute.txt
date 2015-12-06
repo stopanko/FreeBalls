@@ -1,0 +1,119 @@
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Background.png
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.dll
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.pdb
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\AppManifest.xaml
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.xap
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.dll
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.pdb
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.csprojResolveAssemblyReference.cache
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\App.g.i.cs
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\MainPage.g.i.cs
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\GamePage.g.i.cs
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.g.resources
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.dll
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.pdb
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\XapCacheFile.xml
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Newtonsoft.Json.WindowsPhone.dll
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\AppWarp_WP7_SDK.dll
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\ball.xnb
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\Font1.xnb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ApplicationIcon.png
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Background.png
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\ball.xnb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\Font1.xnb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.pdb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\AppManifest.xaml
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.xap
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.pdb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.csprojResolveAssemblyReference.cache
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.g.resources
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.pdb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\XapCacheFile.xml
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\CircleSprite.xnb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\MainPage.g.i.cs
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\GamePage.g.i.cs
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\RoomsListPage.g.i.cs
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\App.g.i.cs
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\RoomPage.g.i.cs
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\passed.xnb
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\YouLose.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.csprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\App.g.i.cs
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\RoomPage.g.i.cs
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\GamePage.g.i.cs
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\Views\RoomsListPage.g.i.cs
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.g.resources
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\SlXnaApp1.pdb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Background.png
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\ball.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\CircleSprite.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\passed.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\YouLose.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Content\Font1.xnb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.pdb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\AppManifest.xaml
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1.xap
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\SlXnaApp1Lib.pdb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\FarseerPhysics WP7.pdb
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1\obj\Debug\XapCacheFile.xml

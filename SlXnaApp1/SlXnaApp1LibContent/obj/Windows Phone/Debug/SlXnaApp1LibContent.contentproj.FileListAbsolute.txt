@@ -1,0 +1,3 @@
+C:\Users\ATOM\Dropbox\БСМ\ХНУ\IV\Бакалаврська робота(Бойчишин 2014 XNA)\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1LibContent\obj\Windows Phone\Debug\SlXnaApp1LibContent.contentprojResolveAssemblyReference.cache
+C:\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1LibContent\obj\Windows Phone\Debug\SlXnaApp1LibContent.contentprojResolveAssemblyReference.cache
+C:\Users\Степан\Documents\GitHub\WinRepo\App1\SlXnaApp1\SlXnaApp1\SlXnaApp1LibContent\obj\Windows Phone\Debug\SlXnaApp1LibContent.contentprojResolveAssemblyReference.cache
