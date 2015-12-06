@@ -58,16 +58,16 @@
 
 <p>&nbsp;</p>
 
-<p><a href="http://www.imageup.ru/img216/1777479/rooms.jpg.html" target="_blank"><img alt="разместить фотографию" src="http://www.imageup.ru/img216/thumb/rooms1777479.jpg" /></a></p>
+<p><img alt="разместить фотографию" src="https://github.com/stopanko/FreeBalls/blob/master/Rooms%20list.jpg" /></p>
 
 <p>Тут можна створити свою кімнату та підключитися до існуючої. Для оновлення списку кімнат потрібно натиснути Refresh. Після кліку на кімнату користувача буде направлено на сторінку кімнати. Там буде доступний чат та кнопка переходу на сторінку гри.</p>
 
 <p>&nbsp;</p>
 
-<p><a href="http://www.imageup.ru/img216/1777483/room.jpg.html" target="_blank"><img alt="хранилище фотографий" src="http://www.imageup.ru/img216/thumb/room1777483.jpg" /></a></p>
+<p><img alt="хранилище фотографий" src="https://github.com/stopanko/FreeBalls/blob/master/RoomPage.png" /></p>
 
 <p>Ігрове поле</p>
 
 <p>&nbsp;</p>
 
-<p><a href="http://www.imageup.ru/img216/1777493/game.jpg.html" target="_blank"><img alt="бесплатных фотохостинг" src="http://www.imageup.ru/img216/thumb/game1777493.jpg" /></a></p>
+<p><img alt="бесплатных фотохостинг" src="https://github.com/stopanko/FreeBalls/blob/master/GamePlay.png" /></p>
